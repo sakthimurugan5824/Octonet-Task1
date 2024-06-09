@@ -1,0 +1,60 @@
+body {
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(fogroad.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #04a7b0;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+        
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+
+section h2 {
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 8px;
+    margin-top: 5%;
+    letter-spacing: 2px;
+    
+}
+
